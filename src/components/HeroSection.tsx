@@ -13,7 +13,7 @@ const HeroSection = () => {
     muted
     playsInline
   >
-    <source src="/data_on_web/video.mp4" type="video/mp4" />
+    <source src="/video/video.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
 </div>
@@ -55,7 +55,7 @@ const HeroSection = () => {
                 playsInline
                 poster=""
               >
-                <source src="/data_on_web/video.mp4" type="video/mp4" />
+                <source src="/video/video.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
             </div>
